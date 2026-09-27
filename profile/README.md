@@ -36,17 +36,19 @@ Together, they represent a way of making where creativity and execution belong t
 ### MetaTaken
 
 <a href="https://github.com/Tezshouse-TeXne/MetaTaken">
-  <img src="https://raw.githubusercontent.com/Tezshouse-TeXne/MetaTaken/main/assets/metataken-app-dark.png" alt="MetaTaken Windows application" width="100%">
+  <img src="https://raw.githubusercontent.com/Tezshouse-TeXne/MetaTaken/main/assets/metataken-app-dark.webp" alt="MetaTaken Windows application" width="100%">
 </a>
 
 **Inspect. Clean. Verify.**
 
 [MetaTaken](https://github.com/Tezshouse-TeXne/MetaTaken) is a free, local Windows utility for inspecting, cleaning and verifying image metadata — without cloud image processing.
 
-It is built around a deliberately simple workflow: drop in an image, inspect what is there, clean what can be safely removed, and automatically verify the result.
+The current **v0.4.0-rc2** release candidate is the first Tauri-based MetaTaken release in the current line, with a rebuilt Windows desktop experience while preserving the established local-first inspection, cleaning and verification workflow.
+
+It supports JPEG/JPG, PNG, WebP, GIF and HEIC/HEIF/HIF, creates separate cleaned copies, and automatically verifies results with decoded-pixel comparison where supported.
 
 **[Explore MetaTaken →](https://metataken.com/)**  
-[GitHub repository](https://github.com/Tezshouse-TeXne/MetaTaken) · [Latest releases](https://github.com/Tezshouse-TeXne/MetaTaken/releases)
+[Download v0.4.0-rc2](https://github.com/Tezshouse-TeXne/MetaTaken/releases/tag/v0.4.0-rc2) · [GitHub repository](https://github.com/Tezshouse-TeXne/MetaTaken)
 
 ---
 
